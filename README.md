@@ -7,3 +7,5 @@ You can read more on Medium: https://medium.com/analytics-vidhya/predicting-rest
 File Descriptions: 
 
 Modeling Notebook: Includes code for both regression and neural network models
+
+Data Combination Notebook: Combines various datasets 
